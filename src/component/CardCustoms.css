@@ -1,0 +1,24 @@
+.cardCust {
+    display: flex;
+    margin-bottom: 20px;
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    max-width: 300px;
+    min-width: 300px;
+
+  }
+
+  #titleCust {
+    color: black;
+    font-size: 22px;
+    font-weight: bold;
+    font-family: Verdana;
+  }
+  
+  #genreCust {
+    color: black;
+    font-family: Verdana;
+    font-weight: 500;
+    font-size: 14px;
+    margin-top: 5px;
+  }
